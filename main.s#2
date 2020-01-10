@@ -3404,6 +3404,11 @@ Warning: This is the KIT version of the AXIAL-0.3 package. This package has a sm
 <label x="22.86" y="83.82" size="1.778" layer="95"/>
 <pinref part="IC2" gate="G$1" pin="PB0/PCINT0/AIN0/OC0A/MOSI"/>
 </segment>
+<segment>
+<wire x1="-17.78" y1="55.88" x2="-38.1" y2="55.88" width="0.1524" layer="91"/>
+<label x="-38.1" y="55.88" size="1.778" layer="95"/>
+<pinref part="T1" gate="G$1" pin="G"/>
+</segment>
 </net>
 <net name="N$3" class="0">
 <segment>
